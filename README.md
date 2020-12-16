@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently at homenhancement.ch
+- 🌱 I’m currently learning Master at HES-SO
+- 💬 Ask me about PHP
+- 📫 How to reach me: selajdinbilali@gmail.com
+- ⚡ Fun fact: I love basmati rice
+
 <!--
 **selajdinbilali/selajdinbilali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
