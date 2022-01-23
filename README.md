@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at homenhancement.ch
-- 🌱 I’m currently learning Master at HES-SO
-- 💬 Ask me about PHP
+- 🔭 I’m currently at Unige
+- 🌱 I’m currently learning Helm
+- 💬 Ask me about PHP, Laravel, React and Vue
 - 📫 How to reach me: selajdinbilali@gmail.com
 - ⚡ Fun fact: I love basmati rice
 
